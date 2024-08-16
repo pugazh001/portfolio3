@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  
+  {
+    "title": "Java Script",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "React JS",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express JS",
+    "imageSrc": "skills/ejs.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Vite JS",
+    "imageSrc": "skills/vite.png"
+  }
+  ,
+  {
+    "title": "Flutter",
+    "imageSrc": "skills/flutter.png"
+  },
+  
+  {
+    "title": "Dart",
+    "imageSrc": "skills/dart.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  }
+
+]

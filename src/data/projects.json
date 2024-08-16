@@ -1,0 +1,103 @@
+[
+  {
+    "title": "TO-DO APP",
+    "imageSrc": "projects/Notes.jpg",
+    "description": "Developed a Simple Notes using React js for the Front-end",
+    "skills": ["React Js"],
+    "demo": "https://pugazh001.github.io/Diary/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Emojimedia",
+    "imageSrc": "projects/Emojimedia.jpg",
+    "description": "Created an Interactive web page using React Js ",
+    "skills": ["React Js"],
+    "demo": "https://pugazh001.github.io/emojipedia/",
+    "source": "https://pugazh001.github.io/emojipedia/"
+  },
+  {
+    "title": "Ecommerce",
+    "imageSrc": "projects/Ecommerce.jpg",
+    "description": "Developed a Simple E-Commerce Website using Java Script for the Front-end",
+    "skills": ["HTML","CSS","Java Script"],
+    "demo": "https://pugazh001.github.io/senchola-Internship/Tasks/task5/",
+    "source": "https://www.github.com"
+  }
+  ,
+  {
+    "title": "Tic-Toc-Toe",
+    "imageSrc": "projects/Tictactoe.jpg",
+    "description": "Developed a Simple Game using JavaScrpit for the Front-end",
+    "skills": ["HTML", "CSS", "Java Script"],
+    "demo": "https://pugazh001.github.io/Tic-toc-toe_Game-js/",
+    "source": "https://www.github.com"
+  }
+  ,
+  {
+    "title": "Blog",
+    "imageSrc": "projects/blog.png",
+    "description": "This is a project made to learn the latest Technology MERN by building an webapp.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://blogclient-w3xm.onrender.com",
+    "source": "https://github.com/pugazh001/BlogWebsite.git"
+  }
+  ,
+  {
+    "title": "SalesManagementSystem",
+    "imageSrc": "projects/sales.png",
+    "description": "This is a project made to learn the latest languages by building an webapp.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://66bf36f1f0169f058726626e--neon-quokka-20aa9e.netlify.app/",
+    "source": "https://github.com/pugazh001/SalesManagement"
+  }
+  ,
+  {
+    "title": "ChatBox",
+    "imageSrc": "projects/chatapp.png",
+    "description": "This is a project made to learn the latest languages by building an webapp.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://github.com/pugazh001/chatBox.git",
+    "source": "https://github.com/pugazh001/chatBox.git"
+  }
+  ,
+  {
+    "title": "WhatsAPP UI",
+    "imageSrc": "projects/whatsappui.jpeg",
+    "description": " It is used to develop cross-platform applications from a single codebase.",
+    "skills": ["Flutter","Dart","Material UI"],
+    "demo": "https://drive.google.com/drive/folders/1XhttERDqwDIiy0mhWETEiaHkjrvUO0Yx",
+    "source": "https://github.com/pugazh001/whatsappui"
+  },
+  {
+    "title": "BMI CALC",
+    "imageSrc": "projects/bmicalc.jpeg",
+    "description": "This is a project made to learn the latest languages by building an Mobileapp.",
+    "skills": ["Flutter","Dart"],
+    "demo": "https://drive.google.com/drive/folders/1XhttERDqwDIiy0mhWETEiaHkjrvUO0Yx",
+    "source": "https://github.com/pugazh001/Flutter-BMICalc"
+  },
+  {
+    "title": "Flutter API-test",
+    "imageSrc": "projects/flutterapi.jpeg",
+    "description": "This is a project made to learn the latest languages by building an Mobileapp.",
+    "skills": ["Flutter","Dart","API"],
+    "demo": "https://drive.google.com/drive/folders/1XhttERDqwDIiy0mhWETEiaHkjrvUO0Yx",
+    "source": "https://github.com/pugazh001/flutter-apitest"
+  },
+  {
+    "title": "SQFLite",
+    "imageSrc": "projects/sqlite.jpeg",
+    "description": "Flutter uses Dart as its programming language. Dart is easy to learn and offers features such as garbage collection, strong typing, and async-await.",
+    "skills": ["Flutter","Dart","SQFLite"],
+    "demo": "https://drive.google.com/drive/folders/1XhttERDqwDIiy0mhWETEiaHkjrvUO0Yx",
+    "source": "https://github.com/pugazh001/flutter-crudsqflite"
+  },
+  {
+    "title": "KidCat",
+    "imageSrc": "projects/kidcat.jpeg",
+    "description": "Flutter uses Dart as its programming language. Dart is easy to learn and offers features such as garbage collection, strong typing, and async-await.",
+    "skills": ["Flutter","Dart","SQFLite"],
+    "demo": "https://drive.google.com/file/d/1coFKT_NbBjOt4ZYqCu2XhzoAoasjEmJL/view",
+    "source": "https://github.com/pugazh001/filrooll-flutter"
+  }
+]
